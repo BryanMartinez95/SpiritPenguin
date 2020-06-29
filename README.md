@@ -10,9 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 ## Testing
 ## Deployment
 ## Built With
+- ASP.NET Core
+- EntityFrameworkCore
+- sqlite
 ## Contributing
 ## Versioning
+- ASP.NET Core 3.1
 ## Authors
+
 ## License
 ## Acknowledgements
 
